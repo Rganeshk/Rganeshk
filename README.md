@@ -38,7 +38,8 @@ const ramyaganesh = {
   dataTools: ["Kafka", "Debezium", "Snowflake", "Hive", "Spark", "Airflow"],
   interests: ["AI Infra", "Poetry", "Human-centered design", "Visualization"]
 }
-
+```
+---
 ###  📫 Let’s Connect!
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ramyapriyanandhini)
 - 📬 rganeshk@cs.cmu.edu
